@@ -1,0 +1,10 @@
+{
+  "name": "glslCanvasTs",
+  "main": "./GlslCanvas.js",
+  "version": "0.0.0",
+  "description": "GlslCanvas TS",
+  "typings": "./GlslCanvas.d.ts",
+  "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
+  "scripts":{
+  }
+}
